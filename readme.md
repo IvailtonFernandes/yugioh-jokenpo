@@ -74,7 +74,6 @@ Se você quiser clonar este repositório e rodar o projeto na sua máquina:
 git clone https://github.com/IvailtonFernandes/yugioh-jokenpo.git
 
 # Acesse a pasta
-cd portfolio
 
 # Abra o arquivo index.html no navegador
 
